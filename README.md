@@ -9,6 +9,13 @@
 
 [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
 
+[Build Cloud-Native applications in Microsoft Azure](https://azure.microsoft.com/en-us/overview/cloudnative/)
+
+[Cloud-Native application development for Google Cloud](https://cloud.google.com/solutions/cloud-native-app-development?hl=he)
+
+[Cloud-Native development for Amazon Web Services](https://aws.amazon.com/blogs/apn/journey-to-being-cloud-native-how-and-where-should-you-start/)
+
+
 ## DevOps
 
 # Application Framework
