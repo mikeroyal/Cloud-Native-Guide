@@ -5,7 +5,7 @@
  Cloud Native Guide
 </h1>
 
-### A guide for Cloud Native tools/applications.
+### A guide for using Cloud Native tools and building applications.
 
 [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
 
