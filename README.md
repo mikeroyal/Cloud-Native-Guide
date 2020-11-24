@@ -5,7 +5,9 @@
  Cloud Native Guide
 </h1>
 
-### A guide for using Cloud Native tools and building applications.
+#### A guide for using Cloud Native tools and building applications.
+
+## Resources
 
 [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
 
@@ -15,6 +17,21 @@
 
 [Cloud-Native development for Amazon Web Services](https://aws.amazon.com/blogs/apn/journey-to-being-cloud-native-how-and-where-should-you-start/)
 
+[Cloud Native Computing Foundation Training and Certification Program](https://www.cncf.io/certification/training/)
+
+[Cloud Foundry Developer Training and Certification Program](https://www.cloudfoundry.org/get-started/)
+
+[Cloud-Native Architecture Course on Pluralsight](https://www.pluralsight.com/courses/cloud-native-architecture-big-picture)
+
+[AWS Fundamentals: Going Cloud-Native on Coursera](https://www.coursera.org/learn/aws-fundamentals-going-cloud-native)
+
+[Developing Cloud-Native Apps w/ Microservices Architectures course on Udemy](https://www.udemy.com/course/developing-cloud-native-applications-microservices-architectures/)
+
+[How load balancing works for cloud native applications with Azure Application Gateway on Linkedin Learning](https://www.linkedin.com/learning/azure-for-developers-optimize-with-azure-application-gateway/how-load-balancing-works-for-cloud-native-applications)
+
+[Developing Cloud Native Applications course on edX](https://www.edx.org/course/developing-cloud-native-applications)
+
+[Cloud Native courses from IBM](https://www.ibm.com/cloud/learn/cloud-native)
 
 # DevOps
 
@@ -97,6 +114,8 @@
 
 [AWS Lambda](https://aws.amazon.com/lambda/) is an event-driven, serverless computing platform provided by Amazon as a part of the Amazon Web Services. It is a computing service that runs code in response to events and automatically manages the computing resources required by that code.
 
+[Traefik](https://traefik.io/traefik/) is an open-source Edge Router that makes publishing your services a fun and easy experience. It receives requests on behalf of your system and finds out which components are responsible for handling them. What sets Traefik apart, besides its many features, is that it automatically discovers the right configuration for your services.
+
 # Containers
 
 [Kubernetes](https://kubernetes.io/) is an open-source container-orchestration system for automating application deployment, scaling, and management. It was originally designed by Google, and is now maintained by the Cloud Native Computing Foundation.
@@ -110,5 +129,7 @@
 [Docker](https://www.docker.com/) is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. Containers are isolated from one another and bundle their own software, libraries and configuration files; they can communicate with each other through well-defined channels. All containers are run by a single operating-system kernel and are thus more lightweight than virtual machines.
 
 [Rook](https://rook.io/) is an open source cloud-native storage orchestrator for Kubernetes that turns distributed storage systems into self-managing, self-scaling, self-healing storage services. It automates the tasks of a storage administrator: deployment, bootstrapping, configuration, provisioning, scaling, upgrading, migration, disaster recovery, monitoring, and resource management.
+
+[Podman(the POD MANager)](https://github.com/containers/podman) is a tool for managing [OCI](https://opencontainers.org/) containers and pods.
 
 [Rkt](https://coreos.com/rkt/) is a pod-native container engine for Linux. It is composable, secure, and built on standards. 
