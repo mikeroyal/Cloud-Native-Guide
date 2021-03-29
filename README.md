@@ -11,9 +11,9 @@
 
 # Table of Contents
 
-1. [Cloud Native Learning Resources](https://github.com/mikeroyal/Cloud-Native-Guide/blob/main/README.md#cloud-native-learning-resources)
+1. [Cloud Native Learning Resources](https://github.com/mikeroyal/Cloud-Native-Guide/blob/master/README.md#cloud-native-learning-resources)
 
-2. [Cloud Native Development](https://github.com/mikeroyal/Cloud-Native-Guide/blob/main/README.md#cloud-native-development)
+2. [Cloud Native Development](https://github.com/mikeroyal/Cloud-Native-Guide/blob/master/README.md#cloud-native-development)
 
 
 <p align="center">
