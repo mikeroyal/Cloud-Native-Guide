@@ -152,3 +152,14 @@
 [Podman(the POD MANager)](https://github.com/containers/podman) is a tool for managing [OCI](https://opencontainers.org/) containers and pods.
 
 [Rkt](https://coreos.com/rkt/) is a pod-native container engine for Linux. It is composable, secure, and built on standards. 
+
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Cloud-Native-Guide/pulls).
+
+
+## License
+[Back to the Top](https://github.com/mikeroyal/Cloud-Native-Guide/blob/master/README.md#table-of-contents)
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
