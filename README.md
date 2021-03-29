@@ -11,9 +11,9 @@
 
 # Table of Contents
 
-1. [Cloud Native Learning Resources](https://github.com/mikeroyal/Cloud-Native-Guide/blob/master/README.md#cloud-native-learning-resources)
+1. [Cloud Native Development](https://github.com/mikeroyal/Cloud-Native-Guide/blob/master/README.md#cloud-native-development)
 
-2. [Cloud Native Development](https://github.com/mikeroyal/Cloud-Native-Guide/blob/master/README.md#cloud-native-development)
+2. [Cloud Native Learning Resources](https://github.com/mikeroyal/Cloud-Native-Guide/blob/master/README.md#cloud-native-learning-resources)
 
 
 <p align="center">
@@ -22,31 +22,6 @@
   Cloud Native Architecture
 </p>
 
-## Cloud Native Learning Resources
-
-[CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
-
-[Build Cloud-Native applications in Microsoft Azure](https://azure.microsoft.com/en-us/overview/cloudnative/)
-
-[Cloud-Native application development for Google Cloud](https://cloud.google.com/solutions/cloud-native-app-development?hl=he)
-
-[Cloud-Native development for Amazon Web Services](https://aws.amazon.com/blogs/apn/journey-to-being-cloud-native-how-and-where-should-you-start/)
-
-[Cloud Native Computing Foundation Training and Certification Program](https://www.cncf.io/certification/training/)
-
-[Cloud Foundry Developer Training and Certification Program](https://www.cloudfoundry.org/get-started/)
-
-[Cloud-Native Architecture Course on Pluralsight](https://www.pluralsight.com/courses/cloud-native-architecture-big-picture)
-
-[AWS Fundamentals: Going Cloud-Native on Coursera](https://www.coursera.org/learn/aws-fundamentals-going-cloud-native)
-
-[Developing Cloud-Native Apps w/ Microservices Architectures course on Udemy](https://www.udemy.com/course/developing-cloud-native-applications-microservices-architectures/)
-
-[How load balancing works for cloud native applications with Azure Application Gateway on Linkedin Learning](https://www.linkedin.com/learning/azure-for-developers-optimize-with-azure-application-gateway/how-load-balancing-works-for-cloud-native-applications)
-
-[Developing Cloud Native Applications course on edX](https://www.edx.org/course/developing-cloud-native-applications)
-
-[Cloud Native courses from IBM](https://www.ibm.com/cloud/learn/cloud-native)
 
 # Cloud Native Development
 
@@ -152,6 +127,34 @@
 [Podman(the POD MANager)](https://github.com/containers/podman) is a tool for managing [OCI](https://opencontainers.org/) containers and pods.
 
 [Rkt](https://coreos.com/rkt/) is a pod-native container engine for Linux. It is composable, secure, and built on standards. 
+
+## Cloud Native Learning Resources
+
+[Back to the Top](https://github.com/mikeroyal/Cloud-Native-Guide/blob/master/README.md#table-of-contents)
+
+[CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
+
+[Build Cloud-Native applications in Microsoft Azure](https://azure.microsoft.com/en-us/overview/cloudnative/)
+
+[Cloud-Native application development for Google Cloud](https://cloud.google.com/solutions/cloud-native-app-development?hl=he)
+
+[Cloud-Native development for Amazon Web Services](https://aws.amazon.com/blogs/apn/journey-to-being-cloud-native-how-and-where-should-you-start/)
+
+[Cloud Native Computing Foundation Training and Certification Program](https://www.cncf.io/certification/training/)
+
+[Cloud Foundry Developer Training and Certification Program](https://www.cloudfoundry.org/get-started/)
+
+[Cloud-Native Architecture Course on Pluralsight](https://www.pluralsight.com/courses/cloud-native-architecture-big-picture)
+
+[AWS Fundamentals: Going Cloud-Native on Coursera](https://www.coursera.org/learn/aws-fundamentals-going-cloud-native)
+
+[Developing Cloud-Native Apps w/ Microservices Architectures course on Udemy](https://www.udemy.com/course/developing-cloud-native-applications-microservices-architectures/)
+
+[How load balancing works for cloud native applications with Azure Application Gateway on Linkedin Learning](https://www.linkedin.com/learning/azure-for-developers-optimize-with-azure-application-gateway/how-load-balancing-works-for-cloud-native-applications)
+
+[Developing Cloud Native Applications course on edX](https://www.edx.org/course/developing-cloud-native-applications)
+
+[Cloud Native courses from IBM](https://www.ibm.com/cloud/learn/cloud-native)
 
 
 ## Contribute
