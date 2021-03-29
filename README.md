@@ -5,9 +5,24 @@
  Cloud Native Guide
 </h1>
 
-#### A guide for using Cloud Native tools and building applications.
+#### A guide for understanding the Cloud Native Architecture, Cloud Native tools, and building Cloud Native applications.
 
-## Resources
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+
+# Table of Contents
+
+1. [Cloud Native Learning Resources](https://github.com/mikeroyal/Cloud-Native-Guide/blob/main/README.md#cloud-native-learning-resources)
+
+2. [Cloud Native Development](https://github.com/mikeroyal/Cloud-Native-Guide/blob/main/README.md#cloud-native-development)
+
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/110991307-55202580-8329-11eb-9de4-31aba0a2daff.png">
+  <br />
+  Cloud Native Architecture
+</p>
+
+## Cloud Native Learning Resources
 
 [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
 
@@ -33,9 +48,13 @@
 
 [Cloud Native courses from IBM](https://www.ibm.com/cloud/learn/cloud-native)
 
-# DevOps
+# Cloud Native Development
 
-## Application Framework
+[Back to the Top](https://github.com/mikeroyal/Cloud-Native-Guide/blob/main/README.md#table-of-contents)
+
+## DevOps
+
+**Application Framework**
 
 [Spring Boot](https://spring.io/projects/spring-boot) is an open-source micro framework maintained by Pivotal, which was acquired by VMware in 2019. It provides Java developers with a platform to get started with an auto configurable production-grade Spring application.
 
@@ -45,11 +64,11 @@
 
 [Apache Hadoop](http://hadoop.apache.org/) is a framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models. It is designed to scale up from single servers to thousands of machines, each offering local computation and storage. Rather than rely on hardware to deliver high-availability, the library itself is designed to detect and handle failures at the application layer, so delivering a highly-available service on top of a cluster of computers, each of which may be prone to failures.
 
-## Runtime Platform
+**Runtime Platform**
 
 [BOSH](https://www.cloudfoundry.org/bosh/) is a tool that prepares your infrastructure for what needs to be managed. BOSH espouses software engineering best practices, such as continuous delivery, by making it easy to create software releases that automatically update complex distributed systems with simple commands.Due to the flexibility and power of BOSH, Google and VMware made it the heart of the Kubo project, now called the Cloud Foundry Container Runtime, based on Kubernetes.
 
-## Infrastructure Automatation
+**Infrastructure Automatation**
 
 [Maven](https://maven.apache.org/) is a build automation tool used primarily for Java projects. Maven can also be used to build and manage projects written in C#, Ruby, Scala, and other languages. The Maven project is hosted by the Apache Software Foundation.
 
@@ -65,7 +84,7 @@
 
 [Terraform](https://www.terraform.io/) is an open-source infrastructure as code software tool created by HashiCorp.It enables users to define and provision a datacenter infrastructure using a high-level configuration language known as Hashicorp Configuration Language (HCL), or optionally JSON.
 
-## Cloud Infrastructure
+**Cloud Infrastructure**
 
 [Amazon web service(AWS)](https://aws.amazon.com) is a platform that offers flexible, reliable, scalable, easy-to-use and cost-effective cloud computing solutions. The AWS platform is developed with a combination of infrastructure as a service (IaaS), platform as a service (PaaS) and packaged software as a service (SaaS) offerings.
 
@@ -82,7 +101,7 @@
 [Cloud Foundry](https://www.cloudfoundry.org/) is an open source, multi cloud application platform as a service that makes it faster and easier to build, test, deploy and scale applications, providing a choice of clouds, developer frameworks, and application services. It is an open source project and is available through a variety of private cloud distributions and public cloud instances. 
 
 
-# Continuous Integration/Continuous Delivery
+## Continuous Integration/Continuous Delivery
 
 [Bamboo](https://www.atlassian.com/software/bamboo) is a continuous integration (CI) server that can be used to automate the release management for a software application, creating a continuous delivery pipeline.
 
@@ -100,7 +119,7 @@
 
 [Prow](https://jenkins-x.io/docs/reference/components/prow/) is a Kubernetes based CI/CD system. Jobs can be triggered by various types of events and report their status to many different services. In addition to job execution, Prow provides GitHub automation in the form of policy enforcement, chat-ops via /foo style commands, and automatic PR merging. Prow has a microservice architecture implemented as a collection of container images that run as Kubernetes deployments.
 
-# Microservices
+## Microservices
 
 [AWS ECS](https://aws.amazon.com/ecs/) is a highly scalable, high-performance container orchestration service that supports Docker containers and allows you to easily run and scale containerized applications on AWS. Amazon ECS eliminates the need for you to install and operate your own container orchestration software, manage and scale a cluster of virtual machines, or schedule containers on those virtual machines.
 
@@ -116,7 +135,7 @@
 
 [Traefik](https://traefik.io/traefik/) is an open-source Edge Router that makes publishing your services a fun and easy experience. It receives requests on behalf of your system and finds out which components are responsible for handling them. What sets Traefik apart, besides its many features, is that it automatically discovers the right configuration for your services.
 
-# Containers
+## Containers
 
 [Kubernetes](https://kubernetes.io/) is an open-source container-orchestration system for automating application deployment, scaling, and management. It was originally designed by Google, and is now maintained by the Cloud Native Computing Foundation.
 
